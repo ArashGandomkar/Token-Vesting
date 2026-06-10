@@ -1,6 +1,21 @@
+<div align="center">
+  
 # Solidity Token Vesting Contract
+  
+<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4086045/cover_image/regular_1708x683/cover-time-locked-wallet-truffle-tutorial-f2a5cc7f02e108b6a1994d7b5598fafc.png" alt="Token Vesting Contract" width="800">
 
-A secure ERC20 token vesting smart contract developed in Solidity.
+### ERC20 Token Locking & Vesting System
+
+Built with Solidity • OpenZeppelin • Gnosis Safe
+
+![License](https://img.shields.io/badge/License-MIT-green)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue)
+![Security](https://img.shields.io/badge/Security-ReentrancyGuard-red)
+![ERC20](https://img.shields.io/badge/Token-ERC20-purple)
+
+</div>
+
+<br>
 
 ## Features
 
